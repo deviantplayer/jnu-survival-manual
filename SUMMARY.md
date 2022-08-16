@@ -8,6 +8,5 @@
 * [禅与路由器搭建艺术](net.md)
 * [电子产品选购指南](electronic.md)
 * [番禺校区度假手册](traffic.md)
-* [关于如何在UoB课程中~~玩死别人~~获得理想的分数](UoB.md)
-* [教育邮箱和教育账号](mail.md)
+* [关于如何在UoB课程中玩死别人](UoB.md)
 * [写在最后](fandisk.md)
