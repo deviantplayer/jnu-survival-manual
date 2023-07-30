@@ -9,10 +9,10 @@ T5、T10沐浴房和厕所均在阳台上，所为坐便！
 
 ## 参考宿舍内布局（T3，T4）：
 
-![dorm3](./images/dorm3.jpg)
+![dorm3](./images/dorm3.JPG)
 
 19级的前辈提出了以下改造方案：
-![dorm2](./images/dorm2.jpg)
+![dorm2](./images/dorm2.JPG)
 
 ## 参考宿舍内布局（基于T11，和T5、T10一样）：
 
