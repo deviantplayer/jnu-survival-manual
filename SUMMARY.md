@@ -4,6 +4,7 @@
 * [一个不靠谱的生涯规划指北](career.md)
 * [新生入学注意事项](orientation.md)
 * [军训注意事项](military.md)
+* [保卫JBJIERS的文化生活](culture.md)
 * [罕见指定餐厅列表](food.md)
 * [技术渣渣和🐰小姐的广州美食指南](tenno.md)
 * [宿舍环境改善指南](dorm.md)
