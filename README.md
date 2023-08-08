@@ -1,6 +1,6 @@
 # 暨南大学生存指南
 
-题目取大了，初衷只是想整理au和小团体群友公认的的南校周边美食列表，慢慢写成了这本充斥着废话和废话的小册子。这本小册子的制作离不开共同作者们：Fro、🐉、尛颜**学姐**、淑惠阿姨、技术渣渣和麻瓜，感谢大家的贡献，也感谢您抽出时间阅读我们的工作。
+题目取大了，初衷只是想整理au和小团体群友公认的的南校周边美食列表，慢慢写成了这本充斥着废话和废话的小册子。这本小册子的制作离不开共同作者们：Fro、🐉、尛颜**学姐**、淑惠阿姨、技术渣渣和麻瓜还有雀雀，感谢大家的贡献，也感谢您抽出时间阅读我们的工作。
 
 这篇指南旨在给新生提供一些基本的生活信息，难以做到事无巨细面面俱到，有不完善的地方请直接来水群提问，我们会适时作出修订。普适性的指南建议阅读《[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)》，一定会受益匪浅。
 
@@ -17,6 +17,6 @@
 如觉得文章内容有争议或有需要补充的地方，请[到这里](https://github.com/deviantplayer/jnu-survival-manual/issues)提issue. 
 Hint: 目录在左上角
 
-原始内容完成于2022.8.16，修订于2023.7.30
+原始内容完成于2022.8.16，修订于2023.8.8
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
